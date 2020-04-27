@@ -1,6 +1,6 @@
 #  Continuous Integration
 
-[![Build Status](http://ec2-54-227-106-160.compute-1.amazonaws.com/buildStatus/icon?job=Battleboats-ContinuousIntegration-master)](http://ec2-54-227-106-160.compute-1.amazonaws.com/job/Battleboats-ContinuousIntegration-master/)
+[![Build Status](http://ec2-54-175-79-54.compute-1.amazonaws.com/buildStatus/icon?job=project-masterCI)](http://ec2-54-175-79-54.compute-1.amazonaws.com/job/project-masterCI/)
 
 ## Project description
 
