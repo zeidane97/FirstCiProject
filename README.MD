@@ -2,6 +2,7 @@
 [![Build Status](http://ec2-54-175-79-54.compute-1.amazonaws.com/buildStatus/icon?job=project-2804-devCI)](http://ec2-54-175-79-54.compute-1.amazonaws.com/job/project-2804-devCI/)
 ##Hello last commit i think
 ##hello encore un commit 2
+##hello encore un commit 3
 ##second commit
 ##third commit
 ##fourth commit
