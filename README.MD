@@ -5,11 +5,9 @@
 ##hello encore un commit 3
 ##hello encore un commit 4
 ##hello encore un commit 5
-##second commit
-##third commit
-##fourth commit
-## Project description
-
+##hello encore un commit 6
+##
+##loli lodefefe
 - Project Battleboat deployed with Continous Integration project with branch control
 - The goal of this app is to serve a static website and connect to a MySQL database as a simple backend app would do.
 
