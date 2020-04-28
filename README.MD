@@ -1,9 +1,13 @@
 #  Continuous Integration
-
-[![Build Status](http://ec2-54-227-106-160.compute-1.amazonaws.com/buildStatus/icon?job=Battleboats-ContinuousIntegration-master)](http://ec2-54-227-106-160.compute-1.amazonaws.com/job/Battleboats-ContinuousIntegration-master/)
-
-## Project description
-
+[![Build Status](http://ec2-54-175-79-54.compute-1.amazonaws.com/buildStatus/icon?job=project-2804-devCI)](http://ec2-54-175-79-54.compute-1.amazonaws.com/job/project-2804-devCI/)
+##Hello last commit i think
+##hello encore un commit 2
+##hello encore un commit 3
+##hello encore un commit 4
+##hello encore un commit 5
+##hello encore un commit 6
+##
+##loli lodefefe
 - Project Battleboat deployed with Continous Integration project with branch control
 - The goal of this app is to serve a static website and connect to a MySQL database as a simple backend app would do.
 
